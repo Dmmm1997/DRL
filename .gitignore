@@ -9,7 +9,8 @@ pytorch-image-models/
 timm_local/*
 **/__pycache__
 .history/*
-*.jpg
+# *.jpg
+tool/visual/*
 *.png
 *.jpeg
 *.tif

@@ -34,8 +34,8 @@ This repository contains code and dataset for the paper titled [Drone Referring 
 
 The dataset split is as follows:
 | Subset | UAV-view | Satellite-view | universities |
-| -------- | ----- | ---- | ---- | ---- |
-| Training | 6,768 | 6,768 | 10 |
+| -------- | ----- | ---- | ---- |
+| Train | 6,768 | 6,768 | 10 |
 | test | 2,331 | 27,972 | 4 |
 
 More detailed file structure:
