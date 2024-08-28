@@ -88,7 +88,7 @@ mkdir checkpoints
 
 ## Dataset & Preparation
 
-Download DenseUAV upon request. You may use the request [Template](docs/request.md).
+Download UL14 upon request. You may use the request [Template](docs/request.md).
 
 Additionally, you need to download the pretrain weight of cvt13 from this [link](https://onedrive.live.com/?authkey=%21AMXesxbtKwsdryE&id=56B9F9C97F261712%2115004&cid=56B9F9C97F261712).
 
